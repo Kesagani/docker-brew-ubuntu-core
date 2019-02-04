@@ -1,0 +1,6 @@
+c10cc1bbececd18889031b3ffb8b65b155d50bba *ubuntu-cosmic-core-cloudimg-amd64-root.tar.gz
+c94ebfdb5c5af3d66a25fe638c89629a8fa362fc *ubuntu-cosmic-core-cloudimg-arm64-root.tar.gz
+db03ed33ac3bad77fa90386ec9050e67f9c2f5cf *ubuntu-cosmic-core-cloudimg-armhf-root.tar.gz
+ce8508d128259dd117c5929dbd8771b5f249979f *ubuntu-cosmic-core-cloudimg-i386-root.tar.gz
+2f366b8f01a18ff8b0757170448d7cb4127328a5 *ubuntu-cosmic-core-cloudimg-ppc64el-root.tar.gz
+b91b1f8a5532e67fb5ae9c30ecfbcf9862707909 *ubuntu-cosmic-core-cloudimg-s390x-root.tar.gz
